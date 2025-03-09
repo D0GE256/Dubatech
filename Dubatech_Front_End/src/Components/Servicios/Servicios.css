@@ -1,0 +1,22 @@
+#Servicios {
+    align-items: center;
+}
+
+#prods {
+    width: 80vw;
+    justify-content: space-between;
+    gap: 8vw;
+}
+
+#prods .border {
+    flex: 0 0 20vw;
+}
+
+ul tr {
+    list-style-type: disc;
+}
+
+#image {
+    height: 10vw;
+    width: 20vw;
+}

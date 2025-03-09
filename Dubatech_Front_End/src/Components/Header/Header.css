@@ -5,6 +5,8 @@
     justify-content: space-between;
     height: 13vh;
     width: 100%;
+    position: fixed;
+    top: 0;
 }
 
 .logo {

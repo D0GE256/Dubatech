@@ -1,9 +1,9 @@
-import "./Body.css";
+import "./Cont.css";
 import Servers from "../../assets/servers.webp";
 
-const Body = () => {
+const Cont = () => {
   return (
-    <div className="row">
+    <div className="row marginTop" id="Cont">
       <div className="text">
         <h1 className="t1 margin textRight">Propuesta de valor</h1>
         <p className="p1 margin textRight">
@@ -20,4 +20,4 @@ const Body = () => {
   );
 };
 
-export default Body;
+export default Cont;
