@@ -27,6 +27,9 @@
   text-align: right;
 }
 
+.textLeft {
+  text-align: left;
+}
 .textCenter {
   text-align: center;
 }
